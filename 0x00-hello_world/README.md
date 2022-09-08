@@ -5,3 +5,4 @@
  - 3-name -- C is fun
  - 4-puts.c -- Print string to stdout using puts module
  - 5-printf.c -- Print string using printf module
+ - 6-size.c -- Size of types
