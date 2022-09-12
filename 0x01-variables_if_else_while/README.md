@@ -6,3 +6,4 @@
  - 3-print_alphabets -- print alphabet in lower and upper case
  - 4-print_alphabt -- print alphabet in lower case except e and q
  - 5-print_numbers -- print single digit numbers
+ - 6-print_numberz -- print single digit numbers without using char variable (putchar only)
