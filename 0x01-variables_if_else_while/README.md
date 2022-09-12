@@ -7,3 +7,4 @@
  - 4-print_alphabt -- print alphabet in lower case except e and q
  - 5-print_numbers -- print single digit numbers
  - 6-print_numberz -- print single digit numbers without using char variable (putchar only)
+ - 7-print_tebahpla -- print alphabet in reverse
