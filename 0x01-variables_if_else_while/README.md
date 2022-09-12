@@ -8,3 +8,4 @@
  - 5-print_numbers -- print single digit numbers
  - 6-print_numberz -- print single digit numbers without using char variable (putchar only)
  - 7-print_tebahpla -- print alphabet in reverse
+ - 8-print_base16 -- Print hexadecimal characters
