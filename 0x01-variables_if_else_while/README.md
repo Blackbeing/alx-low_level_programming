@@ -5,3 +5,4 @@
  - 2-print_alphabet -- print alphabet in lower case
  - 3-print_alphabets -- print alphabet in lower and upper case
  - 4-print_alphabt -- print alphabet in lower case except e and q
+ - 5-print_numbers -- print single digit numbers
