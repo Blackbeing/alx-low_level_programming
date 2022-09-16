@@ -7,3 +7,4 @@
  - 5-sign.c -- Check sign
  - 6-abs.c -- Absolute values
  - 7-print_last_digit.c -- print last digit of a number
+ - 8-24_hours.c -- print minutes of the day
