@@ -5,3 +5,4 @@
  - 3-islower -- print if char is lowercase
  - 4-isalpha.c -- Check for alphabet characters
  - 5-sign.c -- Check sign
+ - 6-abs.c -- Absolute values
