@@ -6,3 +6,4 @@
  - 4-isalpha.c -- Check for alphabet characters
  - 5-sign.c -- Check sign
  - 6-abs.c -- Absolute values
+ - 7-print_last_digit.c -- print last digit of a number
