@@ -3,3 +3,4 @@
 - 1-swap.c -- Swap two integer values
 - 2-strlen.c -- Get string length
 - 3-puts -- Print string followed by newline
+- 4-print_rev.c -- Print string in reverse
