@@ -5,3 +5,4 @@
 - 3-puts -- Print string followed by newline
 - 4-print_rev.c -- Print string in reverse
 - 5-rev_string.c -- Function to reverse string
+- 6-puts2.c -- print every other char starting with the first one
