@@ -7,3 +7,4 @@
 - 5-rev_string.c -- Function to reverse string
 - 6-puts2.c -- print every other char starting with the first one
 - 7-puts_half.c -- Print half of string
+- 8-print_array.c -- Print elements of an array
