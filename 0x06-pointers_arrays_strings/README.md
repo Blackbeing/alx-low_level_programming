@@ -6,3 +6,4 @@
 - 3-strcmp.c -- Compare two strings
 - 4-rev_array.c -- Reverse array
 - 5-string_toupper.c -- Convert lowercase to uppercase
+- 6-cap_string.c -- Capitalize string
