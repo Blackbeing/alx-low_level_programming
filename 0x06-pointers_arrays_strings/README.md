@@ -5,3 +5,4 @@
 - 2-strncpy.c -- Copy two strings
 - 3-strcmp.c -- Compare two strings
 - 4-rev_array.c -- Reverse array
+- 5-string_toupper.c -- Convert lowercase to uppercase
