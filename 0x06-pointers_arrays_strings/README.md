@@ -8,3 +8,4 @@
 - 5-string_toupper.c -- Convert lowercase to uppercase
 - 6-cap_string.c -- Capitalize string
 - 7-leet.c -- Replace characters 
+- 100-rot13.c -- Rot13 cypher
