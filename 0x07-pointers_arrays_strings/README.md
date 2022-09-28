@@ -4,4 +4,4 @@
 - 1-memcpy.c -- Copy memory area
 - 2-strchr.c -- Locate char in string
 - 3-strspn.c -- Length of prefix substring
-
+- 4-strpbrk.c -- Search a string for any of a set of bytes
