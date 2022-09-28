@@ -5,3 +5,4 @@
 - 2-strchr.c -- Locate char in string
 - 3-strspn.c -- Length of prefix substring
 - 4-strpbrk.c -- Search a string for any of a set of bytes
+- 7-print_chessboard.c -- Print chess board
