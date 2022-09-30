@@ -4,3 +4,4 @@
 - 2-strlen_recursion.c -- Count length of string
 - 3-factorial.c -- Get factorial of a number
 - 4-pow_recursion.c -- Get power of a number raised to a number
+- 6-is_prime_number.c -- Get if number is a prime number
