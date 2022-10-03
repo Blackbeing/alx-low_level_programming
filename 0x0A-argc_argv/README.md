@@ -3,3 +3,4 @@
 - 1-args.c -- Print number of arguments
 - 2-args.c -- Print arguments
 - 3-mul.c -- Print product of two numbers
+- 4-add -- Add all commandline arguments
