@@ -4,3 +4,4 @@
 - 2-args.c -- Print arguments
 - 3-mul.c -- Print product of two numbers
 - 4-add -- Add all commandline arguments
+- 100-change.c -- Find mininum amount of coins required
