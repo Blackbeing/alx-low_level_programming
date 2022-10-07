@@ -2,24 +2,6 @@
 #include <stdlib.h>
 
 /**
- * *_memset - fill memory with a constant byte
- * @p: pointer to put the constant
- * @c: char argument
- * @n: int argument
- * Return: p
- */
-
-char *_memset(char *p, char c, unsigned int n)
-{
-	char *ptr = p;
-
-	while (n--)
-		*p++ = c;
-
-	return (ptr);
-}
-
-/**
  * _calloc -  allocate memory for an array, using malloc
  * @nmemb: int argument
  * @size: int argument
@@ -30,6 +12,8 @@ char *_memset(char *p, char c, unsigned int n)
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	char *ptr;
+	char c = 0;
+	unsigned int i;
 
 	if (nmemb == 0 || size == 0)
 		return (NULL);
@@ -39,6 +23,9 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 	if (ptr == NULL)
 		return (NULL);
 
-	_memset(ptr, 0, size * nmemb);
+	for (i = 0; i < (size * nmemb); i++)
+		*(ptr + i) = c;
+
+	/* _memset(ptr, 0, size * nmemb); */
 	return (ptr);
 }
