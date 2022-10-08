@@ -3,3 +3,4 @@
 - 1-strdup.c -- Duplicate string
 - 2-str_concat -- Concat two strings
 - 3-alloc_grid.c -- Dynamically allocate 2d array
+- 4-free_grid.c -- Free dynamically allocated 2d array
