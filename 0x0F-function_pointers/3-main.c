@@ -10,23 +10,30 @@
 
 int main(int argc, char *argv[])
 {
-	int result;
+	int result = 0;
+	char *operator = argv[2];
 
 	if (argc != 4)
 	{
 		printf("Error\n");
 		exit(98);
 	}
-
-	if (get_op_func(argv[2]))
+	if (strcmp(operator, "+") == 0 ||
+	     strcmp(operator, "-") == 0 ||
+	     strcmp(operator, "*") == 0 ||
+	     strcmp(operator, "/") == 0 ||
+	     strcmp(operator, "%") == 0
+	   )
 	{
-		result = get_op_func(argv[2])(atoi(argv[1]), atoi(argv[3]));
+
+		if (get_op_func(argv[2]) != NULL)
+			result = get_op_func(argv[2])(atoi(argv[1]), atoi(argv[3]));
 	}
 	else
-	{
-		printf("Error\n");
-		exit(99);
-	}
+		{
+			printf("Error\n");
+			exit(99);
+		}
 
 	printf("%d\n", result);
 
