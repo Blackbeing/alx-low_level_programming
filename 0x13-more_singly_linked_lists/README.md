@@ -8,3 +8,4 @@
 - 5-free_listint2.c -- Free linked list
 - 6-pop_listint.c -- Pop header node of linked list
 - 7-get_nodeint.c -- Get node at index
+- 8-sum_listint.c -- Sum all data in node
