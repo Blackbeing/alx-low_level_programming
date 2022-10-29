@@ -6,3 +6,4 @@
 - 3-add_nodeint_end.c -- Add node at end of linked list
 - 4-free_listint.c -- Free linked list
 - 5-free_listint2.c -- Free linked list
+- 6-pop_listint.c -- Pop header node of linked list
