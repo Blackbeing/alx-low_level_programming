@@ -7,3 +7,4 @@
 - 4-free_dlistint.c -- Free doubly linked list
 - 5-get_dnodeint.c -- Get node at index
 - 6-sum_dlistint.c -- Sum values of nodes in doubly linked list
+- 7-insert_dnodeint.c -- Insert node at index
